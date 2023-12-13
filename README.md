@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saran Thanaraks</h1>
+<h3 align="center">A University Student</h3>
 
+- 🌱 I’m currently learning **Tensorflow, Kafka , Hadoop**
+
+- 📫 How to reach me **Saran.Thanaraks@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
